@@ -9,4 +9,6 @@ def test_math_multiply():
     assert 1 * 3 == 3
 
 
-      
+def test_mat1_add_negative():
+    assert 1 + 1 == 3
+          
